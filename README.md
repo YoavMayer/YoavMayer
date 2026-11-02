@@ -4,7 +4,7 @@
 
 ## Flagship projects
 
-- **[babysitter-observer-dashboard](https://github.com/YoavMayer/babysitter-observer-dashboard)** - Real-time observability dashboard for AI agent runs, authored end to end and published on [npm](https://www.npmjs.com/package/@yoavmayer/babysitter-observer-dashboard) with real external users.
+- **[babysitter-observer-dashboard](https://github.com/YoavMayer/babysitter-observer-dashboard)** - Real-time observability dashboard for AI agent runs, authored end to end and published on [npm](https://www.npmjs.com/package/@yoavmayer/babysitter-observer-dashboard).
 - **[podcast-intel](https://github.com/YoavMayer/podcast-intel)** - Open-source Python audio-AI pipeline: Whisper transcription, speaker diarization, and a 39-metric podcast quality score.
 - **[yoavmayer.github.io](https://yoavmayer.github.io)** - Portfolio site covering agent observability, LLM ops, and unattended production pipelines ([repo](https://github.com/YoavMayer/yoavmayer.github.io)).
 
