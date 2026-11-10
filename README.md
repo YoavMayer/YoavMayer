@@ -1,18 +1,19 @@
 # Yoav Mayer
 
-**AI Developer & C#/.NET Engineer.** A decade of production .NET and multi-protocol systems, team/dev lead since 2019. I build AI-agent tooling end to end: from the integration layer to the dashboard on npm.
+**AI Consultant.** Hands-on AI for small businesses and industry: less manual work inside the tools you already use, with people in control.
 
-## Flagship projects
+12 years in industrial R&D, the last 7 leading the software automation and infrastructure team. Since March 2026 I apply the same method with AI: find where the work gets stuck, hand the repeated part to AI agents, and keep a person approving what matters.
 
-- **[babysitter-observer-dashboard](https://github.com/YoavMayer/babysitter-observer-dashboard)** - Real-time observability dashboard for AI agent runs, authored end to end and published on [npm](https://www.npmjs.com/package/@yoavmayer/babysitter-observer-dashboard).
-- **[podcast-intel](https://github.com/YoavMayer/podcast-intel)** - Open-source Python audio-AI pipeline: Whisper transcription, speaker diarization, and a 39-metric podcast quality score.
-- **[yoavmayer.github.io](https://yoavmayer.github.io)** - Portfolio site covering agent observability, LLM ops, and unattended production pipelines ([repo](https://github.com/YoavMayer/yoavmayer.github.io)).
+## Selected work
 
-**Live-production bonus:** [wc26-pool-board](https://github.com/YoavMayer/wc26-pool-board) - a Hebrew (RTL) World Cup 2026 prediction-pool web app, updated automatically by an unattended pipeline with GitHub Actions quality gates and zero human in the loop.
+- **Invoicing for a small business:** about 30 invoices a month, from two days of work to under 20 minutes. The owner approves every invoice.
+- **Live interpretation at a medical conference:** listeners followed two days of talks on their own phones; over 99% of medical terms were right in the test before the event.
+- **[babysitter-observer-dashboard](https://github.com/YoavMayer/babysitter-observer-dashboard):** a dashboard for following AI-agent runs step by step, with three of my contributions merged into the open-source framework. Published on [npm](https://www.npmjs.com/package/@yoavmayer/babysitter-observer-dashboard).
+- **[podcast-intel](https://github.com/YoavMayer/podcast-intel):** open-source Python pipeline that turns podcast episodes into transcripts, speaker labels and a quality score.
 
-## Tech stack
+## Stack
 
-C#/.NET 8, ASP.NET Core, TypeScript/Next.js, Python, Claude/LLM integration.
+Python, TypeScript, C#/.NET, LLM APIs, AI agents.
 
 ## Contact
 
