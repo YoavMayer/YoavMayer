@@ -4,7 +4,7 @@
 
 I fix the manual work that eats a team's week: data re-entered from one system into another, reports built by hand, checks nobody automated. Often a script or a simple integration is enough. When it needs more, I build it the way I built test systems for a production line: tested, with a record of every step.
 
-Independent since March 2026, based in Haifa. Before that, seven years leading the automation and software infrastructure team at Arad Technologies: the R&D automation lab (over 70% of the firmware team's regression testing automated), the production-line testers, and a calibration platform that made calibration at least 4x faster.
+Independent since March 2026, based in Haifa. Before that, seven years leading the automation and software infrastructure team at Arad Technologies: the R&D automation lab (over 80% of the firmware team's regression testing automated), the production-line testers, and the calibration and test platform the production line runs on.
 
 ## Selected work
 
